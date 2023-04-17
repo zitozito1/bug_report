@@ -1,8 +1,4 @@
-# Purchase Order Management System v1.0 has SQL injection
-
 BUG_Author:zito
-
-Website source address:https://www.sourcecodester.com/php/14935/purchase-order-management-system-using-php-free-source-code.html
 
 Vulnerability File: /purchase_order/admin/suppliers/view_details.php
 
